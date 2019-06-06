@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AntiTelemarketer"
+             x:Class="AntiTelemarketer.TelemarketerPage"
+             Title="Telemarketer">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:StackupTimesConverter x:Key="StackupTimesConverter"></local:StackupTimesConverter>
+            <local:ContactsColorConverter x:Key="ContactsColorConverter"></local:ContactsColorConverter>
+            <local:FontsizeScalingConverter x:Key="FontsizeScalingConverter"></local:FontsizeScalingConverter>
+            <local:CheckResol x:Key="CheckResol"></local:CheckResol>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ListView x:Name="lv_Telemarketer"
+            ItemsSource="{Binding Items}"
+            CachingStrategy="RecycleElement">
+
+        <!--Custom View Cells-->
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" >
+                        <Image 
+                               Source="drawable/user.png" 
+                               HeightRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=100}" 
+                               WidthRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=100}" 
+                               HorizontalOptions="Start">
+                        </Image>
+                        <!--<StackLayout Orientation="Vertical">-->
+                            <Label  Text="{Binding phoneNumber}"
+                                    FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=25}" 
+                                    TextColor="{Binding Type, Converter= {StaticResource ContactsColorConverter}}" 
+                                    VerticalOptions="Center"
+                                    FontAttributes="Bold"
+                                    Margin="10,10,0,10">
+                            </Label>
+                        <!--</StackLayout>-->
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+
+    </ListView>
+</ContentPage>

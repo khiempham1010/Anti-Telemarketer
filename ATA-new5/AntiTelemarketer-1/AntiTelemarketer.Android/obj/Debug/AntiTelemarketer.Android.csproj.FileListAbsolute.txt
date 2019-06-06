@@ -1,0 +1,193 @@
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.Android.dll
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/PRIMAS.Anti_Telemarketer.apk
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/PRIMAS.Anti_Telemarketer-Signed.apk
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.nuget.stamp
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csprojAssemblyReference.cache
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/libraryimports.cache.stamp
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res.flag
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csproj.CoreCompileInputs.cache
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/XamlC.stamp
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csproj.CopyComplete
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.dll
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/android/bin/PRIMAS.Anti_Telemarketer.apk
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/layout/tabbar.xml
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/layout/toolbar.xml
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/values/styles.xml
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/values/colors.xml
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/R.cs.flag
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/R.txt
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/uploadflags.txt
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/drawable/recenticon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/drawable/myreporticon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/drawable/plusicon.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/drawable/user.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/res/drawable/cancel.png
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Mono.Android.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Plugin.XamJam.Screen.Abstractions.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Plugin.XamJam.Screen.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Xamarin.Essentials.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Plugin.XamJam.Screen.Abstractions.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Plugin.XamJam.Screen.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Essentials.dll.mdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.Android.dll
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/PRIMAS.Anti_Telemarketer.apk
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/PRIMAS.Anti_Telemarketer-Signed.apk
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.nuget.stamp
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csprojAssemblyReference.cache
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/libraryimports.cache.stamp
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res.flag
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csproj.CoreCompileInputs.cache
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/XamlC.stamp
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csproj.CopyComplete
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.dll
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/android/bin/PRIMAS.Anti_Telemarketer.apk
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/layout/tabbar.xml
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/layout/toolbar.xml
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/values/styles.xml
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/values/colors.xml
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/myreporticon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/recenticon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/plusicon1.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/user.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/cancel.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/plusicon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/R.cs.flag
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/R.txt
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/uploadflags.txt
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/icon.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/close_circle_button.png
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Mono.Android.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Rg.Plugins.Popup.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Rg.Plugins.Popup.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Plugin.XamJam.Screen.Abstractions.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Plugin.XamJam.Screen.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Rg.Plugins.Popup.Droid.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Xamarin.Essentials.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Plugin.XamJam.Screen.Abstractions.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Plugin.XamJam.Screen.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Rg.Plugins.Popup.Droid.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Essentials.dll.mdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.Android.dll
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/PRIMAS.Anti_Telemarketer.apk
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/PRIMAS.Anti_Telemarketer-Signed.apk
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.nuget.stamp
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csprojAssemblyReference.cache
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/libraryimports.cache.stamp
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res.flag
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csproj.CoreCompileInputs.cache
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/XamlC.stamp
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.csproj.CopyComplete
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.dll
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/android/bin/PRIMAS.Anti_Telemarketer.apk
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/layout/tabbar.xml
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/layout/toolbar.xml
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/values/styles.xml
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/values/colors.xml
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/myreporticon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/recenticon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/plusicon1.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/user.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/cancel.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/icon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/close_circle_button.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/res/drawable/plusicon.png
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/R.cs.flag
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/R.txt
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/uploadflags.txt
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Mono.Android.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Newtonsoft.Json.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Rg.Plugins.Popup.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/AntiTelemarketer.Android.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Rg.Plugins.Popup.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Plugin.XamJam.Screen.Abstractions.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Plugin.XamJam.Screen.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Rg.Plugins.Popup.Droid.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Xamarin.Essentials.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Plugin.XamJam.Screen.Abstractions.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Plugin.XamJam.Screen.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Rg.Plugins.Popup.Droid.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Essentials.dll.mdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb

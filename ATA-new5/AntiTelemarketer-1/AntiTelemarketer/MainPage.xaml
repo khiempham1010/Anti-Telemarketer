@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            xmlns:views="clr-namespace:SuaveControls.Views;assembly=SuaveControls.FloatingActionButton"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            BarBackgroundColor="#2196F3"
+            BarTextColor="White"
+            android:TabbedPage.BarItemColor="#7f8c8d"
+            android:TabbedPage.BarSelectedItemColor="White"
+            xmlns:local="clr-namespace:AntiTelemarketer" x:Class="AntiTelemarketer.MainPage" 
+            Title="Anti-Telemarketer">
+
+    <ContentPage.ToolbarItems >
+
+        <ToolbarItem Name="MenuSettings" Order="Secondary"  Text="Settings" Priority="0" Clicked="MenuSettings_Clicked" />
+        <ToolbarItem Name="MenuPrivacyStatemets" Order="Secondary" Text="Privacy Statements" Priority="1" Clicked="MenuPrivacyStatemets_Clicked" />
+
+    </ContentPage.ToolbarItems>
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal" BackgroundColor="#2f8ff0">
+            <Image
+            x:Name="btnSocial"
+            Source="drawable/icon.png"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="Start" WidthRequest="40" HeightRequest="40"/>
+            <Label Text="Anti-Telemarketer"  FontSize="Large" FontAttributes="Bold" TextColor="White" HorizontalOptions="Start" VerticalOptions="Center" />
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <ContentPage Title="Recents" Icon="drawable/recentIcon.png" 
+                  xmlns:converter ="clr-namespaces:AntiTelemarketer.Converter">
+
+        <ContentPage.Resources>
+            <ResourceDictionary>
+                <local:StackupTimesConverter x:Key="StackupTimesConverter"></local:StackupTimesConverter>
+                <local:ContactsColorConverter x:Key="ContactsColorConverter"></local:ContactsColorConverter>
+                <local:FontsizeScalingConverter x:Key="FontsizeScalingConverter"></local:FontsizeScalingConverter>
+                <local:CheckResol x:Key="CheckResol"></local:CheckResol>
+            </ResourceDictionary>
+        </ContentPage.Resources>
+
+
+
+
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" 
+                         HorizontalOptions="Center" >
+                <StackLayout 
+                    BackgroundColor="#2f8ff0">
+                    <Label Text="RECENTS" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center" 
+                   FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=40}" 
+                   TextColor="#ffcf4f"
+                   FontAttributes="Bold"/>
+                </StackLayout>
+
+
+                <!-- Here is our ListView of Calling History -->
+                <ListView x:Name="lv_CallLog" HasUnevenRows="True" IsPullToRefreshEnabled="true" ItemTapped="Handle_ItemTappedAsync">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.ContextActions>
+                                    <MenuItem Clicked="OnReportAsync" 
+                                              CommandParameter="{Binding Number}" 
+                                              Text="Report" IsDestructive="false"  />
+                                </ViewCell.ContextActions>
+                                <StackLayout Orientation="Horizontal" Padding="10,5,0,5">
+                                    <Image Source="drawable/user.png" HeightRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=70}" 
+                                       WidthRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=70}" HorizontalOptions="Start"></Image>
+                                    <StackLayout Orientation="Vertical">
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label  Text="{Binding Number}" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=20}" TextColor="{Binding Type, Converter= {StaticResource ContactsColorConverter}}" FontAttributes="Bold"></Label>
+                                            <Label IsVisible="{Binding times, Converter={StaticResource StackupTimesConverter}}" 
+                                                    Text= "{Binding times, StringFormat = '({0:})'}" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=18}"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label  Text="{Binding Date, StringFormat='{0:MMMM d, yyyy HH:mm}' }" TextColor="Black" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=18}"></Label>
+                                            <Label  Text="{Binding Type }" TextColor="{Binding Type, Converter= {StaticResource ContactsColorConverter}}" FontAttributes="Bold" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=18}"></Label>
+                                        </StackLayout>
+
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <!-- End Calling History -->
+
+            </StackLayout>
+
+
+        </ContentPage.Content>
+
+
+    </ContentPage>
+
+
+    <ContentPage Title="My Reports"  Icon="drawable/myReportIcon.png" >
+
+
+        <ContentPage.Resources>
+            <ResourceDictionary>
+                <local:StackupTimesConverter x:Key="StackupTimesConverter"></local:StackupTimesConverter>
+                <local:ContactsColorConverter x:Key="ContactsColorConverter"></local:ContactsColorConverter>
+                <local:FontsizeScalingConverter x:Key="FontsizeScalingConverter"></local:FontsizeScalingConverter>
+
+            </ResourceDictionary>
+        </ContentPage.Resources>
+
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" 
+                         HorizontalOptions="Center">
+                <StackLayout 
+                    BackgroundColor="#2f8ff0">
+                    <Label Text="MY REPORTS" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center" 
+                   FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=40}"
+                   TextColor="#ffcf4f"
+                   FontAttributes="Bold"/>
+                </StackLayout>
+
+                <ListView x:Name="lv_UserReport" IsPullToRefreshEnabled="true" HasUnevenRows="True" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell  >
+                                <ViewCell.ContextActions >
+                                    <MenuItem Clicked="OnDeleteAsync" 
+                                              CommandParameter="{Binding phoneNumber}" 
+                                              Text="Delete" IsDestructive="false"  />
+                                </ViewCell.ContextActions>
+                                <StackLayout Orientation="Horizontal" Padding="10,5,0,5">
+                                    <Image Source="drawable/user.ico" HeightRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=70}"
+                                       WidthRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=70}" HorizontalOptions="Start"></Image>
+                                    <StackLayout Orientation="Vertical">
+                                        <Label Text="{Binding phoneNumber}" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=20}" FontAttributes="Bold" TextColor="Red"></Label>
+                                        <Label Text="{Binding reportDate, StringFormat='{0:MMMM d, yyyy HH:mm}' }" TextColor="Black" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=18}" ></Label>
+                                    </StackLayout>
+                                </StackLayout>
+
+                            </ViewCell>
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <views:FloatingActionButton
+                 HorizontalOptions="End"
+                VerticalOptions="EndAndExpand"
+                 Image="plus"
+                ButtonColor="#2296F3"
+                WidthRequest="80"
+                HeightRequest="90"
+                x:Name="BtnAdd"
+                Clicked="BtnAdd_Clicked">
+                </views:FloatingActionButton>
+            </StackLayout>
+        </ContentPage.Content>
+
+    </ContentPage>
+
+</TabbedPage>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AntiTelemarketer.DetailPage"
+             xmlns:local="clr-namespace:AntiTelemarketer">
+    
+    
+         <ContentPage.Resources>
+            <ResourceDictionary>
+                <local:StackupTimesConverter x:Key="StackupTimesConverter"></local:StackupTimesConverter>
+                <local:ContactsColorConverter x:Key="ContactsColorConverter"></local:ContactsColorConverter>
+                <local:DetailConverter x:Key="DetailConverter"></local:DetailConverter>
+                <local:DetailConverter_isNotIncomingCall x:Key="DetailConverter_isNotIncomingCall"></local:DetailConverter_isNotIncomingCall>
+                <local:ToMinuteConverter x:Key="ToMinuteConverter"></local:ToMinuteConverter> 
+               <local:FontsizeScalingConverter x:Key="FontsizeScalingConverter"></local:FontsizeScalingConverter>
+                
+            </ResourceDictionary>
+        </ContentPage.Resources>
+    
+    
+    <ContentPage.Content>
+       
+       <StackLayout>
+        <StackLayout Orientation="Vertical" BackgroundColor="#2f8ff0" VerticalOptions="Start">
+            <StackLayout Margin="0,2,0,2">
+                <Image Source="drawable/user.png" HeightRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=80}" WidthRequest="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=80}" HorizontalOptions="CenterAndExpand"></Image>
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label x:Name="lb_PhoneNumber" TextColor="#ffcf4f" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=40}" FontAttributes="Bold"></Label>
+            </StackLayout>
+        </StackLayout>
+        
+         <ListView x:Name="lv_CallLog" HasUnevenRows="True">  
+                <ListView.ItemTemplate>  
+                <DataTemplate>  
+                <ViewCell> 
+                       <StackLayout Orientation="Horizontal" >
+                                <StackLayout Orientation="Vertical" Padding="10,5,5,0">  
+                                        <StackLayout Orientation="Horizontal">
+                                             <Label  Text="{Binding Date, StringFormat='{0:MMMM d, yyyy}' }" TextColor="Black" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=20}"></Label>
+                                        </StackLayout>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label  Text="{Binding Date, StringFormat='{0:HH:mm}'}"  FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=20}" TextColor="Black"></Label>
+                                        <Label  IsVisible="{Binding Type, Converter=  {StaticResource DetailConverter_isNotIncomingCall}}" Text="{Binding Type }" TextColor="{Binding Type, Converter= {StaticResource ContactsColorConverter}}" FontAttributes="Bold" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=20}"></Label>
+                                        <Label  IsVisible="{Binding Type, Converter=  {StaticResource DetailConverter}}" Text="{Binding Duration,Converter= {StaticResource ToMinuteConverter}}" FontAttributes="Bold" FontSize="{Binding Mode=Default, Converter={StaticResource FontsizeScalingConverter},ConverterParameter=20}" TextColor="Green"></Label>
+                                    </StackLayout>
+                                </StackLayout>  
+                       </StackLayout>  
+                </ViewCell>  
+                </DataTemplate>  
+                </ListView.ItemTemplate>  
+               </ListView>  
+        </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>

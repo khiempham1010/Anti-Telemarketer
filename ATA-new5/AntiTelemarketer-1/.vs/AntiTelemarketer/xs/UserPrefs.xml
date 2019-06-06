@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{348858D0-1A8A-4239-B482-D8B84A723D8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AntiTelemarketer/SettingPage.xaml.cs">
+    <Files>
+      <File FileName="AntiTelemarketer/Model/Setting.cs" Line="7" Column="50" />
+      <File FileName="AntiTelemarketer/Model/Telemarketer.cs" Line="1" Column="1" />
+      <File FileName="AntiTelemarketer/SettingPage.xaml.cs" Line="16" Column="27" />
+      <File FileName="AntiTelemarketer/SettingPage.xaml" Line="34" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AntiTelemarketer" expanded="True">
+            <Node name="AntiTelemarketer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="AdapterManager" expanded="True" />
+              <Node name="API" expanded="True" />
+              <Node name="Converter" expanded="True" />
+              <Node name="DatabaseHelper" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="AddPage.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DetailPage.xaml" expanded="True" />
+              <Node name="FirstPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SettingPage.xaml" expanded="True">
+                <Node name="SettingPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="ToolsPage.xaml" expanded="True" />
+            </Node>
+            <Node name="AntiTelemarketer.Android" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="BroadcastReceiverService" expanded="True" />
+              <Node name="ContactApdapter" expanded="True" />
+              <Node name="ContactService" expanded="True" />
+              <Node name="DatabaseHelper" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AntiTelemarketer.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.my_2k_android_7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

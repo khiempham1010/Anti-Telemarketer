@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:SuaveControls.Views;assembly=SuaveControls.FloatingActionButton"
+    x:Class="AntiTelemarketer.SettingPage"
+    Title="Settings">
+
+    <ContentPage.ToolbarItems >
+
+        <ToolbarItem Name="MenuSettings" Order="Secondary"  Text="Settings" Priority="0" Clicked="MenuSettings_Clicked"  />
+        <ToolbarItem Name="MenuPrivacyStatemets" Order="Secondary" Text="Privacy Statements" Priority="1" Clicked="MenuPrivacyStatemets_Clicked"/>
+
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <BoxView Color="#95a5a6" WidthRequest ="100" HeightRequest="1"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Enable Anti-Telemaketer" Font="Roboto" FontSize="Medium" TextColor="Black" Margin="20,20,0,20" HorizontalOptions="StartAndExpand" VerticalOptions="Center"></Label>
+                <Switch 
+                    x:Name="sw_Enable"
+                    Toggled="SwEnable_Toggled"
+                    HorizontalOptions="EndAndExpand" Margin="0,20,20,20"
+                    
+                    >
+                </Switch>
+            </StackLayout>
+
+            <StackLayout>
+                <BoxView Color="#95a5a6" WidthRequest ="100" HeightRequest="1"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Turn on notification" Font="Roboto" FontSize="Medium" TextColor="Black" Margin="20,20,0,20" HorizontalOptions="StartAndExpand" VerticalOptions="Center" ></Label>
+                <Switch x:Name="swNotifiaction" HorizontalOptions="EndAndExpand" Margin="0,20,20,20"
+                        
+                        Toggled="SwNotifiaction_Toggled"
+                        >
+                </Switch>
+            </StackLayout>
+
+            <StackLayout>
+                <BoxView Color="#95a5a6" WidthRequest ="100" HeightRequest="1" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,214 @@
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.deps.json
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csprojAssemblyReference.cache
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CoreCompileInputs.cache
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfoInputs.cache
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfo.cs
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/dangnguyenhongkha/Projects/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CopyComplete
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.deps.json
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.dll
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.pdb
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csprojAssemblyReference.cache
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/PrivacyPage.xaml.g.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/SettingPage.xaml.g.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfoInputs.cache
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfo.cs
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.dll
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.pdb
+C:/Users/pxkhu/Desktop/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.deps.json
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.dll
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.pdb
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csprojAssemblyReference.cache
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/PrivacyPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/SettingPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfo.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.dll
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.pdb
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.deps.json
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.dll
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.pdb
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csprojAssemblyReference.cache
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/PrivacyPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/SettingPage.xaml.g.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfo.cs
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.dll
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.pdb
+C:/Users/Admin/Desktop/New folder (3)/AntiTelemarketer - Copy/AntiTelemarketer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.deps.json
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csprojAssemblyReference.cache
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/PrivacyPage.xaml.g.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/SettingPage.xaml.g.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CoreCompileInputs.cache
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfoInputs.cache
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfo.cs
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Desktop/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.deps.json
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/bin/Debug/netstandard2.0/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csprojAssemblyReference.cache
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/PrivacyPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/SettingPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/TelemarketerPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/ToolsPage.xaml.g.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.csproj.CoreCompileInputs.cache
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfoInputs.cache
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.AssemblyInfo.cs
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.dll
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/AntiTelemarketer.pdb
+/Users/dangnguyenhongkha/Downloads/untitled folder 4/AntiTelemarketer-1/AntiTelemarketer/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.deps.json
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csprojAssemblyReference.cache
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\PrivacyPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\SettingPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\TelemarketerPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\ToolsPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfoInputs.cache
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfo.cs
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\pxkhu\Desktop\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.deps.json
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\PrivacyPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\SettingPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\TelemarketerPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\ToolsPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.deps.json
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\PrivacyPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\SettingPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\TelemarketerPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\ToolsPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new4_OK\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.deps.json
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\PrivacyPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\SettingPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\TelemarketerPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\ToolsPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.deps.json
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csprojAssemblyReference.cache
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\PrivacyPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\SettingPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\TelemarketerPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\ToolsPage.xaml.g.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfoInputs.cache
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfo.cs
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\pxkhu\Desktop\ATA-new4_OK - Copy\ATA-new4\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.deps.json
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\bin\Debug\netstandard2.0\AntiTelemarketer.pdb
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\PrivacyPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\SettingPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\TelemarketerPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\ToolsPage.xaml.g.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.dll
+C:\Users\Admin\Desktop\ATA-new5\AntiTelemarketer-1\AntiTelemarketer\obj\Debug\netstandard2.0\AntiTelemarketer.pdb

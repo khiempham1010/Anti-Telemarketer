@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AntiTelemarketer.PrivacyPage"
+             Title="Privacy statement">
+
+    <ContentPage.ToolbarItems >
+
+        <ToolbarItem Name="MenuSettings" Order="Secondary"  Text="Settings" Priority="0" Clicked="MenuSettings_Clicked"  />
+        <ToolbarItem Name="MenuPrivacyStatemets" Order="Secondary" Text="Privacy Statements" Priority="1" Clicked="MenuPrivacyStatemets_Clicked"/>
+
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+       <ScrollView>
+        <StackLayout>
+
+            <StackLayout>
+                <Label Text="Phone conservations" Font="Bold, Roboto" FontSize="17" TextColor="Black" Margin="20,15,0,0">
+                </Label>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Used solely to capture the incoming and outgoing phone number and for suggest to spam number." 
+                       Font="Roboto" FontSize="14" Margin="20,13,15,0">
+                </Label>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Your location" Font="Bold, Roboto" FontSize="17" TextColor="Black"  Margin="20,15,0,0">
+                </Label>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Used to lookup services and businesses nearby (show nearest) as well as the 'Take me there' function if you want a navigation map to your entry. In some cases your position is also used to display relevant ads based on your position." 
+                       Font="Roboto" FontSize="14" Margin="20,13,20,0">
+                </Label>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Your personal information" Font="Bold, Roboto" FontSize="17" TextColor="Black" Margin="20,15,0,0">
+                </Label>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Read and write to your contact list is used for checking the number is existed in your contact list or unknown number to show the report dialog." 
+                       Font="Roboto" FontSize="14" Margin="20,13,15,0">
+                </Label>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Network communications" Font="Bold, Roboto" FontSize="17" TextColor="Black" Margin="20,15,0,0">
+                </Label>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Used to check Web-services communication, for lookups on unfamiliar numbers, and for looking up businesses and people in the app." 
+                       Font="Roboto" FontSize="14" Margin="20,13,20,0">
+                </Label>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="System Tools" Font="Bold, Roboto" FontSize="17" TextColor="Black" Margin="20,15,0,0">
+                </Label>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Require permissions access: Contact , SMS, Phone." 
+                       Font="Roboto" FontSize="14" Margin="20,13,20,0">
+                </Label>
+            </StackLayout>
+        </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

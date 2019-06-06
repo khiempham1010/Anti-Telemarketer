@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:SuaveControls.Views;assembly=SuaveControls.FloatingActionButton"
+             x:Class="AntiTelemarketer.ToolsPage"
+             Title="Administration Tool">
+
+    <ContentPage.ToolbarItems >
+
+        <ToolbarItem Name="MenuSettings" Order="Secondary"  Text="Settings" Priority="0" Clicked="MenuSettings_Clicked"  />
+        <ToolbarItem Name="MenuPrivacyStatemets" Order="Secondary" Text="Privacy Statements" Priority="1" Clicked="MenuPrivacyStatemets_Clicked"/>
+
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="btnTelemarketer" Text="Telemarketer" FontFamily="Roboto" Margin="0,10,0,0" Clicked="BtnTelemarketer_Clicked" />
+            <views:FloatingActionButton
+                HorizontalOptions="End"
+                VerticalOptions="EndAndExpand"
+                 Image="sync1"
+                ButtonColor="#2296F3"
+                WidthRequest="80"
+                HeightRequest="90"
+                x:Name="btnSynchronize"
+               Clicked="BtnSynchronize_Clicked">
+            </views:FloatingActionButton>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
